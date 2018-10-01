@@ -1,0 +1,4 @@
+db.sqlite3
+nlp/migrations/*
+server/__pycache__
+nlp/__pycache__
